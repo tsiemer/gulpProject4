@@ -1,0 +1,35 @@
+{
+  "name": "bootstrapLayout",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "*",
+    "del": "*",
+    "gulp": "*",
+    "gulp-autoprefixer": "*",
+    "gulp-cache": "*",
+    "gulp-csso": "*",
+    "gulp-debug": "*",
+    "gulp-eslint": "*",
+    "gulp-front-matter": "*",
+    "gulp-imagemin": "*",
+    "gulp-load-plugins": "*",
+    "gulp-minify-html": "*",
+    "gulp-notify": "*",
+    "gulp-rename": "*",
+    "gulp-sass": "*",
+    "gulp-sourcemaps": "*",
+    "gulp-swig": "*",
+    "gulp-uglify": "*",
+    "gulp-util": "*",
+    "gulp-wrap": "*",
+    "opn": "*",
+    "run-sequence": "*"
+  }
+}
